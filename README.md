@@ -1,5 +1,5 @@
 # Supbuntu 20.04 Focal Fossa - Supdate Healthcare v1
-### Licensed under Ubuntu font license v1.0 and oSup v1
+### Licensed under [Ubuntu font license v1.0](https://supbuntu.github.io/ubuntu-font-license.) and [oSup v1](https://supbuntu.github.io/os-license)
 ## Important announcement:
 Ubuntu is part of Canonical Ltd. and Supbuntu is a system modification designed for healthcare and veterinary environments.
 
@@ -20,4 +20,3 @@ You can download this software but Supbuntu is not covered by Ubuntu Community
  - [ ] Install all necesary elements
  - [ ] Select the official ubuntu desktop flavour for Supbuntu
  - [ ] Compile the image
- - [ ] Push to releases
