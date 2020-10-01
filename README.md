@@ -15,8 +15,12 @@ You can download this software but Supbuntu is not covered by Ubuntu Community
 
 ## To do
 
- - [ ] Create Plymouth
- - [ ] Make a system enviorment
- - [ ] Install all necesary elements
+### Important Step
+ - [ ] Publish
+
+### System Creation
+ - [X] Create Plymouth
+ - [X] Make a system enviorment
+ - [X] Install all necesary elements
  - [X] Select the official ubuntu desktop flavour for Supbuntu
- - [ ] Compile the image
+ - [X] Compile the image
