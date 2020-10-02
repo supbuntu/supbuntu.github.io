@@ -1,5 +1,5 @@
 # Supbuntu 20.04 Focal Fossa - Supbuntu Mod v1
-### Licensed under [Ubuntu font license v1.0](https://supbuntu.github.io/ubuntu-font-license) and [oSup v1](https://supbuntu.github.io/os-license)
+### Licensed under [Ubuntu font license v1.0](https://supbuntu.github.io/ubuntu-font-license) and [oSup v1 rev 1a](https://supbuntu.github.io/os-license)
 ## Important announcement:
 Ubuntu is part of Canonical Ltd. and Supbuntu is a system modification designed for everyone.
 
