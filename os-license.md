@@ -1,4 +1,4 @@
-# oSup License v1
+# oSup License v1 rev 1a
 
 ## Foreword
 Software is a computer element that must always be the good companion of man (that is, of the human being). That is why this license is designed to offer free and secure software. No vulnerabilities. That is, with all its patches, closed its code, and free for everyone. That does not mean, lose money. You can include your internal elements for purchases or propose donations and contributions. It is always seen from the perspective of having a safe software, but free, that for everyone is the idea of ​​the `oFree code`. The `oFreeSoft` method is an idea that your software is free, and I emphasize. Only for download and installation. Not including third-party programs, which normally install hidden items on the computer. But you rule in it, and if you want to include internal purchases, just do it. But yes, it notifies your users (those who will download and install the software) that there are purchases within it. I say this especially because there will be software with this license that will be intended for a child audience, and if it is not notified, there may be a misunderstanding. To consult everything related to oFreeSoft and internal purchases see the `oSoftPay` section
@@ -21,7 +21,7 @@ The developer can make with his software any idea captured in his mind, as long 
 ### 1.5: No to cybercrime
 The creator of the software must create content that provides the user with always legal and accessible content. We say it, because any software must have a specific function. For example: A P2P or BitTorrent client is used to share large files between users. As well as, for example, a source code of a software among its developers or part of it. But realizing that everyone uses BitTorrent to download illegal movies and P2P to transfer child pornography.
 
-oSup wants to promote the cleaning of the software not as its code, but the function that its users do with it. If x developer performs a specific P2P to publish school bullying, or x developer performs a specific BitTorrent to transfer malicious software source code. We are totally against them doing so. This is how this license marks it. If a user makes software with such infringements, they can send us an email to: osup-licensing@gmail.com
+oSup wants to promote the cleaning of the software not as its code, but the function that its users do with it. If x developer performs a specific P2P to publish school bullying, or x developer performs a specific BitTorrent to transfer malicious software source code. We are totally against them doing so. This is how this license marks it. If a user makes software with such infringements, they can send us an email to: osup.licensing@gmail.com
 ### 1.6: No need for developer accounts or posting to a marketplace
 For the normal user, one who uses a computer. It will be easy to google for software, but those who normally use Linux are used to a Marketplace. oSup pretends that nobody has to go through a developer filter, or a filter to publish, since we do not want the software to concentrate. You can concentrate, and any developer can create a concentration of such software either qualified under this license (software within software with the same license) or deferred license software. (software with dual licenses). This only applies to the completion of creating a Marketplace for software and applies only in case of creating a Marketplace software with this current license.
 
@@ -45,7 +45,7 @@ For the user who uses the software to declare either within the installer and ev
 
 Children may misuse the software if the developer does not declare such a function. That is why you must declare if there are purchases within it.
 
-Any infringement of this license related to the purchase within the software can be sent to: osup-licensing@gmail.com
+Any infringement of this license related to the purchase within the software can be sent to: osup.licensing@gmail.com
 
 **#BeSafeWithPayInSoftware**
 
